@@ -1,4 +1,4 @@
- <img src="logo.png" class="logo"> 
+ <img src="exmp.png" class="logo"> 
 <........ you can change your logo......>
 
  background-image: url(photo.png)
